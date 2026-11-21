@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "ola-publico": {
+      "type": "streamable-http",
+      "url": "https://app.olavital.com/api/mcp/publico"
+    },
+    "ola-clientas": {
+      "type": "streamable-http",
+      "url": "https://app.olavital.com/api/mcp"
+    },
+    "ola-duenas": {
+      "type": "streamable-http",
+      "url": "https://app.olavital.com/api/mcp/admin"
+    }
+  }
+}
