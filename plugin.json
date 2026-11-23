@@ -5,7 +5,7 @@
   "description": "OLA Vital Center, membership hair and nail salon in San Luis Potosí, Mexico: skills and MCP servers to look up the salon, book as a member (OAuth) and run the back office as the owner (OAuth).",
   "author": { "name": "OLA Vital Center", "url": "https://olavital.com" },
   "homepage": "https://olavital.com/desarrolladores",
-  "repository": "https://github.com/darkoxz/ola-agentes",
+  "repository": "https://github.com/olavital/ola-agentes",
   "license": "MIT",
   "keywords": ["salon", "beauty", "booking", "membership", "mexico", "mcp", "oauth"]
 }

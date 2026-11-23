@@ -10,10 +10,10 @@ salon in San Luis Potosí, Mexico. No app code and no customer data.*
 ## Instalar las skills
 
 ```bash
-npx skills add darkoxz/ola-agentes
+npx skills add olavital/ola-agentes
 ```
 
-Una sola: `npx skills add darkoxz/ola-agentes --skill ola-reservar`
+Una sola: `npx skills add olavital/ola-agentes --skill ola-reservar`
 
 | Skill | Para quién | Necesita |
 |---|---|---|
