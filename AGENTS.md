@@ -26,7 +26,7 @@ el nivel, tratamientos capilares y uñas en gel. No ofrece cortes ni color.
 
 ### 3. API REST
 - Contrato OpenAPI: `https://olavital.com/openapi.json`.
-- Documentación: `https://olavital.com/desarrolladores` y `https://olavital.com/mcp`.
+- Documentación: `https://olavital.com/desarrolladores`, `https://olavital.com/mcp` (OLA Vital MCP server) y `https://olavital.com/cli` (olavital CLI, `npx olavital`).
 
 ## Reglas que tu integración debe respetar
 - **2 pasos en todo lo que cambia algo**: reservar, cambiar, cancelar, cobrar y las acciones de dueña. La
