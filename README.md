@@ -34,8 +34,9 @@ Están declarados en [`mcp.json`](mcp.json) y el plugin en [`plugin.json`](plugi
 
 ## Documentación
 
-- Desarrolladores: https://olavital.com/desarrolladores
-- MCP: https://olavital.com/mcp
+- API de OLA Vital Center (desarrolladores): https://olavital.com/desarrolladores · [English](https://olavital.com/en/developers)
+- OLA Vital MCP server: https://olavital.com/mcp · [English](https://olavital.com/en/mcp) · paquete local [`olavital-mcp`](https://www.npmjs.com/package/olavital-mcp)
+- olavital CLI (`npx olavital`): https://olavital.com/cli · [English](https://olavital.com/en/cli) · paquete [`olavital`](https://www.npmjs.com/package/olavital)
 - API (OpenAPI): https://olavital.com/openapi.json
 - Para agentes: https://olavital.com/llms.txt · https://olavital.com/auth.md
 - Guía para agentes de código: [AGENTS.md](AGENTS.md)
